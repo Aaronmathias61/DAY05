@@ -1,0 +1,11 @@
+var a,b,c,d;
+console.log(a,b,c,d);
+var myvar=1;
+console.log(myvar);
+var first_name;
+var last_name;
+var marital_status;
+var age;
+var country;
+var a=' ';
+console.log(a);
